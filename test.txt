@@ -1,2 +1,3 @@
 contents
 this file should soon disappear... or not?
+... let's in the meantime append nothing
