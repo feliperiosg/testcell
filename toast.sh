@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # another first line
 # another second line
 a=3
@@ -13,3 +15,4 @@ echo "a/b with leading zero plus %.5f:" $(printf '%.5f' $(echo "$a/$b" | bc -l))
 # space
 echo "last 1 test:" $(printf '%.6f' $(echo "5.01/11.37" | bc -l))
 echo "last 2 test:" $(echo "scale=6; 11.37/5.01" | bc -l)
+# space
