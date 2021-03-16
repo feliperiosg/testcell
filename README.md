@@ -8,4 +8,5 @@ more silliness on the next day<br>
 </html>
 one more space
 
-... and another
+... and another<br/>
+... <strong><em>last one</em></strong>
