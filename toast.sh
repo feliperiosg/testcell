@@ -17,3 +17,4 @@ echo "last 1 test:" $(printf '%.6f' $(echo "5.01/11.37" | bc -l))
 echo "last 2 test:" $(echo "scale=6; 11.37/5.01" | bc -l)
 # using awk... beats me!
 echo | awk -v v1=$a -v v2=$b '{printf "%.3f\n", (v1/v2)}'
+# some unnecessary and final comment
