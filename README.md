@@ -10,3 +10,5 @@ one more space
 
 ... and another<br/>
 ... <strong><em>last one</em></strong>
+
+<code>variable</code>
